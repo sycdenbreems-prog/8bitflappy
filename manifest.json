@@ -1,0 +1,17 @@
+{
+  "name": "Flappy Plane 8-bit",
+  "short_name": "Flappy Plane",
+  "description": "8-bit Flappy Bird met een vliegtuig",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#18212b",
+  "theme_color": "#18212b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
